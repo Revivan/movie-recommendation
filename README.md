@@ -1,2 +1,4 @@
-# movie-recommendation
-A simple movie recommendation system using Pands with the MovieLens dataset
+# Movie Matcher
+A simple movie recommendation system using Panda with the MovieLens dataset using Jupyter Notebook.
+
+
